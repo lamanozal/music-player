@@ -1,0 +1,12 @@
+.container {
+    width: 400px;
+}
+
+#volume,
+ul li
+{ cursor: pointer; }
+
+ul li.playing {
+    background-color: #4e94fd;
+    color: #fff;
+}
